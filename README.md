@@ -151,5 +151,3 @@ customer-journey-optimization/
 ```
 
 ---
-
-<sub>Built by Sanjana</sub>
